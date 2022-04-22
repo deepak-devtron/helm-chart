@@ -3,7 +3,17 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-22T12:34:38.354578+05:30"
+    created: "2022-04-22T13:05:04.106469+05:30"
+    description: A Helm chart for Kubernetes
+    digest: edfe6b66822f934b233cb13a4f28ee89c038fde9a997ec8798b348f5596f3351
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://deepak-devtron.github.io/helm-chart/helm-chart-test-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-22T13:05:04.105728+05:30"
     description: A Helm chart for Kubernetes
     digest: a905db81bbd8ba385c6461ee9364662bd998f12e7985fc7cf1d2cb61427409a1
     name: helm-chart-test
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-22T12:34:38.354197+05:30"
+    created: "2022-04-22T13:05:04.105145+05:30"
     description: A Helm chart for Kubernetes
     digest: aed66fef5a72df9a27012018f869214d874519489a255017db1109d6b43cc457
     name: helm-chart-test
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://deepak-devtron.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-22T12:34:38.353122+05:30"
+generated: "2022-04-22T13:05:04.103294+05:30"
